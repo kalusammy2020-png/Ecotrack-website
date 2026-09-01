@@ -17,7 +17,6 @@ export default defineConfig({
       typescript: true,
     }),
   ],
-  base: "/Ecotrack-website/",
   server: {
     port: 3000,
     host: true,
